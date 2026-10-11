@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="112" viewBox="0 0 960 112" role="img">
+<rect x="0" y="0" width="960" height="112" rx="16" fill="#111017" stroke="#302837" stroke-width="1"/>
+<polyline points="18,1 942,1" fill="none" stroke="#574168" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="23" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="10" font-weight="400" letter-spacing="1.5" fill="#b5a0e7">AI PRODUCT / GENERATIVE EXPERIENCE</text>
+<text x="28" y="49" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="22" font-weight="400" letter-spacing="0" fill="#e1dbe9">从需求定义到体验验证</text>
+<polyline points="675,47 895,47" fill="none" stroke="#4c3a64" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="675" cy="47" r="4" fill="#c2acee" stroke="#b5a0e7" stroke-width="1"/>
+<text x="658" y="64" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="10" font-weight="400" letter-spacing="0" fill="#8e829f">Define</text>
+<circle cx="785" cy="47" r="4" fill="#171320" stroke="#716186" stroke-width="1"/>
+<text x="768" y="64" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="10" font-weight="400" letter-spacing="0" fill="#8e829f">Build</text>
+<circle cx="895" cy="47" r="4" fill="#171320" stroke="#716186" stroke-width="1"/>
+<text x="878" y="64" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="10" font-weight="400" letter-spacing="0" fill="#8e829f">Validate</text>
+<circle cx="675.0" cy="47" r="7" fill="#372844"/>
+<circle cx="675.0" cy="47" r="2.2" fill="#dac7f8"/>
+<text x="644" y="88" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="9" font-weight="400" letter-spacing="1.2" fill="#8e819d">DEFINE · BUILD · VALIDATE</text>
+<circle r="2.4" fill="#dac7f8"><animateMotion path="M 675 47 L 895 47" dur="6s" repeatCount="indefinite"/></circle><circle cx="675" cy="47" r="8" fill="none" stroke="#b4a0df" opacity="0.35"><animate attributeName="r" values="7;12;7" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
