@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="936" viewBox="0 0 420 936" role="img">
+<rect x="0" y="0" width="398" height="246" rx="14" fill="#191423" stroke="#4d3d62" stroke-width="1"/>
+<polyline points="28,0 76,0" fill="none" stroke="#bea3ec" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="26" y="24" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="10" font-weight="400" letter-spacing="1.2" fill="#bea3ec">01 / PRODUCT THINKING</text>
+<text x="26" y="53" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="26" font-weight="600" letter-spacing="0" fill="#eeedf6">产品定义与体验设计</text>
+<text x="26" y="101" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="17" font-weight="400" letter-spacing="0" fill="#b7afc6">将使用场景转化为清晰的产品方案</text>
+<text x="26" y="132" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="14" font-weight="400" letter-spacing="0" fill="#908699">PRD · 用户流程 · 交互原型</text>
+<rect x="26" y="198" width="86" height="29" rx="6" fill="#1e1928" stroke="#43364f" stroke-width="1"/>
+<text x="54" y="206" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="12" font-weight="400" letter-spacing="0" fill="#b7a6cd">场景</text>
+<polyline points="120,213 134,213" fill="none" stroke="#5d4871" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="130,210 134,213 130,216" fill="none" stroke="#5d4871" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="142" y="198" width="86" height="29" rx="6" fill="#1e1928" stroke="#43364f" stroke-width="1"/>
+<text x="170" y="206" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="12" font-weight="400" letter-spacing="0" fill="#b7a6cd">方案</text>
+<polyline points="236,213 250,213" fill="none" stroke="#5d4871" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="246,210 250,213 246,216" fill="none" stroke="#5d4871" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="258" y="198" width="86" height="29" rx="6" fill="#1e1928" stroke="#43364f" stroke-width="1"/>
+<text x="286" y="206" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="12" font-weight="400" letter-spacing="0" fill="#b7a6cd">验证</text>
+<rect x="22" y="272" width="398" height="218" rx="14" fill="#141a26" stroke="#354a63" stroke-width="1"/>
+<polyline points="50,272 98,272" fill="none" stroke="#9dbce6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="48" y="296" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="10" font-weight="400" letter-spacing="1.2" fill="#9dbce6">02 / AGENT SYSTEMS</text>
+<text x="48" y="325" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="23" font-weight="600" letter-spacing="0" fill="#eeedf6">Agent 工作流与上下文</text>
+<text x="48" y="370" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15" font-weight="400" letter-spacing="0" fill="#b7afc6">组织上下文，连接人机协作</text>
+<text x="48" y="398" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" font-weight="400" letter-spacing="0" fill="#908699">Prompt 模板 · 输入输出 · 兜底规则</text>
+<polyline points="56,449 386,449" fill="none" stroke="#456180" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="56.0" cy="449" r="4" fill="#141a26" stroke="#9dbce6" stroke-width="1"/>
+<text x="44.0" y="462" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8f819d">检索</text>
+<circle cx="221.0" cy="449" r="4" fill="#141a26" stroke="#9dbce6" stroke-width="1"/>
+<text x="209.0" y="462" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8f819d">生成</text>
+<circle cx="386.0" cy="449" r="4" fill="#141a26" stroke="#9dbce6" stroke-width="1"/>
+<text x="374.0" y="462" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="11" font-weight="400" letter-spacing="0" fill="#8f819d">审核</text>
+<rect x="0" y="516" width="398" height="204" rx="14" fill="#14201f" stroke="#385752" stroke-width="1"/>
+<polyline points="28,516 76,516" fill="none" stroke="#a5ccc0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="26" y="540" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="10" font-weight="400" letter-spacing="1.2" fill="#a5ccc0">03 / EVALUATION</text>
+<text x="26" y="569" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="23" font-weight="600" letter-spacing="0" fill="#eeedf6">生成质量与评测</text>
+<text x="26" y="612" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15" font-weight="400" letter-spacing="0" fill="#b7afc6">让生成结果可以被比较与改进</text>
+<text x="26" y="640" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" font-weight="400" letter-spacing="0" fill="#908699">评测标准 · 样本集 · 版本对比</text>
+<polyline points="26,694 372,694" fill="none" stroke="#292332" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="26,691 73,691 73,684 131,684 131,676 198,676 198,670 372,670" fill="none" stroke="#608f83" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="372" cy="670" r="2.5" fill="#a5ccc0"/>
+<rect x="22" y="746" width="398" height="180" rx="14" fill="#221a1d" stroke="#624c48" stroke-width="1"/>
+<polyline points="50,746 98,746" fill="none" stroke="#d4b29c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="48" y="770" dominant-baseline="text-before-edge" font-family="Arial,sans-serif" font-size="10" font-weight="400" letter-spacing="1.2" fill="#d4b29c">04 / CONTENT &amp; EXPRESSION</text>
+<text x="48" y="799" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="23" font-weight="600" letter-spacing="0" fill="#eeedf6">内容策略与创意表达</text>
+<text x="48" y="843" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="15" font-weight="400" letter-spacing="0" fill="#b7afc6">从受众理解到有辨识度的内容</text>
+<text x="48" y="871" dominant-baseline="text-before-edge" font-family="'Hiragino Sans GB','Microsoft YaHei',sans-serif" font-size="13" font-weight="400" letter-spacing="0" fill="#908699">选题脚本 · 视觉素材 · 内容复盘</text>
+<circle r="2.6" fill="#c6dcf9"><animateMotion path="M 56 449 L 386 449" dur="5s" repeatCount="indefinite"/></circle><circle cx="372" cy="670" r="5" fill="none" stroke="#a5ccc0" opacity="0.5"><animate attributeName="r" values="3;8;3" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.15;0.8" dur="4s" repeatCount="indefinite"/></circle>
+</svg>
