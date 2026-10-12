@@ -10,7 +10,7 @@
 围绕 AI 产品的需求定义、流程设计与效果验证，形成清晰的产品方案。<br />
 以人机协作和结构化评测支持生成体验迭代，关注流程可用性与结果质量。
 
-[个人网站](https://yan-shuang.github.io/20050202ys-sketch.github.io/) · [联系我](mailto:3233654978@qq.com)
+[个人网站](https://yan-shuang.github.io/) · [联系我](mailto:3233654978@qq.com)
 
 ### 核心能力与交付
 
